@@ -1,12 +1,13 @@
 # 앱개발 중간고사 시험문제
 
 1. 프로젝트를 아래의 조건으로 생성하세요 (30점)
-> 프로젝트명 : midterm_[본인학번]
-> package name : kr.ac.mjc.midterm_[본인학번]
+### 프로젝트명 : midterm_[본인학번]
+### package name : kr.ac.mjc.midterm_[본인학번]
 ![스크린샷 2022-10-18 오전 10 59 17](https://user-images.githubusercontent.com/21700482/196317737-036b30f2-8317-4eea-8219-8fd17fa5c21e.png)
 
 
 2. 실행후 첫화면을 다음과 같이 나오게 하세요 (20점)
+
 ![스크린샷 2022-10-18 오전 11 02 59](https://user-images.githubusercontent.com/21700482/196318157-0a9f956b-ec03-4597-aee3-e418eb2e124b.png)
 
 3. 위의 화면에서 아이디를 [본인의학번] 패스워드를 [1234] 를 입력했을때 다음화면으로 넘어가도록 만드세요 (20점)
