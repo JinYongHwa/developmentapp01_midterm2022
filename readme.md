@@ -1,5 +1,8 @@
 # 앱개발 중간고사 시험문제
 
+[![Video Label](http://img.youtube.com/vi/HdqZ4gZ2mVQ/0.jpg)](https://youtu.be/HdqZ4gZ2mVQ)
+
+
 1. 프로젝트를 아래의 조건으로 생성하세요 (30점)
 ### 프로젝트명 : midterm_[본인학번]
 ### package name : kr.ac.mjc.midterm_[본인학번]
